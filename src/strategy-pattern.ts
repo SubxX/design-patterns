@@ -1,7 +1,8 @@
 /*
- STRATEGY Pattern
- Its a behavioral design pattern that defines a family of algorithms, encapsulates each one of them and make them
- interchangeable, It allows you to select an algorithm at run time base on some condition
+    Name - Strategy Pattern
+    Type - Behavioral Patterns
+    Its a behavioral design pattern that defines a family of algorithms, encapsulates each one of them and make them
+    interchangeable, It allows you to select an algorithm at run time base on some condition
 */
 
 interface PaymentStrategy {
